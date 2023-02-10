@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Matthew Taylor
 
 # Full name (for SEO)
 first_name: Matthew
